@@ -1,0 +1,21 @@
+{
+  "name": "devx_session_2",
+  "version": "1.0.0",
+  "description": "Database_task",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm instal postgres"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm instal dotenv"
+  },
+  "keywords": [
+    "petros@2003"
+  ],
+  "author": "PETROSMSAINE",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
